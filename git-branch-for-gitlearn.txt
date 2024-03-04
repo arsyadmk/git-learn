@@ -4,6 +4,10 @@ GIT BRANCH for GIT Learn
   * second first word
     ^ first second first word asd
     ^ second second first word asd
+    ^ first second first word
+    ^ second second first word
+- first.1 word
 - second word
   ^ first second word
 - third word
+- fourth word
