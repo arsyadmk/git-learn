@@ -2,5 +2,5 @@ GIT Learn
 - first sentence
 - second sentence
 - thrid sentence
-- fourth sentence
 - fifth sentence
+- sixth sentence
