@@ -2,6 +2,8 @@ GIT BRANCH for GIT Learn
 - first word
   * first first word
   * second first word
+    ^ first second first word asd
+    ^ second second first word asd
     ^ first second first word
     ^ second second first word
 - first.1 word
